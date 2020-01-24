@@ -3,8 +3,7 @@ First Group project for Data Bootcamp, Gatech - by Roopa, Siva, Khusboo, Victor 
 
 The R-Pythons
 
-# Project Title
-  Impact of Social Media
+# Project Title - Impact of Social Media
 # Team Members
   Julie John, Khushboo Shah, Roopa Reddy, Siva Thangaraj, Victor Ime
 # Project Description
