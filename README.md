@@ -3,18 +3,18 @@ First Group project for Data Bootcamp, Gatech - by Roopa, Siva, Khusboo, Victor 
 
 The R-Pythons
 
-# Project Title - Social Media Advertising Trends
+# Project Title - Data analysis of Trends in Medicare system
 # Team Members
   Julie John, Khushboo Shah, Roopa Reddy, Siva Thangaraj, Victor Ime
 # Project Description
-  An analysis of social media in today’s world and its impact on advertising and subsequently branding and sales
+  An analysis of various infrastructure of Meidcare from 2015 to 2019 Eg: Physicians, Nurses, Hospitals, etc from the Medicare data archives
 # Research Questions to Answer
-    o	Analyze the social media advertising impact on sales of products
-    o	Social Influencer’s (celebrities) impact on sales of products
-    o	FANG analysis – Facebook, Apple, Netflix, Google data analysis
-    o	Trend Analysis of social media advertising (compare decade wise data from mid 90s to 2020).
+    o	Trend in number and quality of physicians, hospitals, specialities, dialysis facilities etc
+    o	State and country wide statistical analysis of trends
+    o	Types of home health services and their trends under Medicare
+    o	correlation Analysis of medical supplier data and the hospitals in each state
 # Datasets to be Used
-     Exploring datasets on social media data
+     Exploring datasets data.medicare.gov
 # Rough Breakdown of the tasks
   1. Finding the data – Pulling the Json files, online datasets
   2. Cleaning the data
