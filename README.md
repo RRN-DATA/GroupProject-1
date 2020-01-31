@@ -7,20 +7,22 @@ The R-Pythons
 # Team Members
   Julie John, Khushboo Shah, Roopa Reddy, Siva Thangaraj, Victor Ime
 # Project Description
-  An analysis of various infrastructure of Meidcare from 2015 to 2019 Eg: Physicians, Nurses, Hospitals, etc from the Medicare data archives
+
+  The scope of our project is to analyze and find if there is any correlation between quality of healthcare (using MIPS and Hospital Rating by Medicare as basis of comparison) and various parameters.
 # Research Questions to Answer
-    o	Trend in number and quality of physicians, hospitals, specialities, dialysis facilities etc
-    o	State and country wide statistical analysis of trends
-    o	Types of home health services and their trends under Medicare
-    o	correlation Analysis of medical supplier data and the hospitals in each state
+    o	Is there any Correlation between Hospital Ratings and the kind of ownership?
+    o	Is there any trend in quality of Healthcare provided and its location(State)?
+    o	Does age,experience,gender,medical school attended impact the quality of Healthcare?
+    
 # Datasets to be Used
-     Exploring datasets data.medicare.gov
+     Multiple datasets from data.medicare.gov
 # Rough Breakdown of the tasks
-  1. Finding the data – Pulling the Json files, online datasets
-  2. Cleaning the data
-  3. Merge and group the data
-  4. Analyze the stats
-  5. Data visualization and graphs
-  6. Research and Observations
-  7. Concluding remarks and prediction
-  8. Limitations How to improve the data model
+  1. Define the Goal and questions for the Project
+  2. Collect the data – Pull the Json files, online datasets
+  3. Clean and extract the necessary data based on requiremets
+  4. Link,Merge and group the data from multiple datasets
+  5. Use Python and its various modules to Analyze data
+  6. Data visualization and graphs
+  7. Interpret Results and Make observations
+  8. Limitations of the Analysis and How it can be improved.
+  9. Bonus!
